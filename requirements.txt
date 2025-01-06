@@ -1,0 +1,11 @@
+faicons
+shiny
+shinywidgets
+plotly
+pandas
+ridgeplot
+sentence-transformers
+openpyxl
+numpy
+scikit-learn
+pandas
